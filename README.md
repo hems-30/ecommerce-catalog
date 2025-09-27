@@ -88,6 +88,37 @@ ecommerce-catalog/
 - Node.js (v16+ recommended)
 - npm (v8+ recommended)
 
+---
+
+## Usage
+1. Browse products on the **Shop** page.
+2. Use **filters** to narrow products by category/subcategory.
+3. Use the **search bar** to find a product by name.
+4. **Sort products by price** using the dropdown.
+5. **Add items to the cart**, adjust quantities, and see the total.
+6. Click a product to view **detailed information**.
+7. Navigate between pages via the **header links**.
+8. Invalid URLs show a friendly **404 page**.
+
+---
+
+## Future Enhancements
+- Implement **checkout and payment integration**.
+- Add **user authentication and profiles**.
+- Connect to a **real backend or external API**.
+- Add **product reviews and ratings**.
+- Enable **wishlists and favorites**.
+
+---
+
+## License
+This project is open-source and available under the **MIT License**.
+
+---
+
+## Author
+**Hemen Solomon**
+
 ### Installation
 1. Clone the repository:
 ```bash
@@ -102,25 +133,3 @@ ecommerce-catalog/
 The app will run at http://localhost:3000.
 
 
-## Usage
-1. Browse products on the Shop page.
-2. Use filters to narrow products by category/subcategory.
-3. Use the search bar to find a product by name.
-4. Sort products by price using the dropdown.
-5. Add items to the cart, adjust quantities, and see the total.
-6. Click a product to view detailed information.
-7. Navigate between pages via the header links.
-8. Invalid URLs show a friendly 404 page.
-
-## Future Enhancements
-- Implement actual checkout and payment integration.
-- Add user authentication and profiles.
-- Connect to a real backend or external API.
-- Add product reviews and ratings.
-- Enable wishlists and favorites.
-
-### License
-This project is open-source and available under the MIT License.
-
-### Author
-Hemen Solomon

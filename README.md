@@ -132,9 +132,3 @@ This project is open-source and available under the **MIT License**.
     npm start
 The app will run at http://localhost:3000.
 
-## Resources
-
-- 🌐 [Live Project](https://ecommerce-catalog-gamma-ten.vercel.app)  
-- 🎥 [Demo Video](https://drive.google.com/file/d/1cTpUG5dQbvhkbbmPTtmfazo1KrPwLzA_/view?usp=sharing)  
-- 🎨 [Figma Design](https://www.figma.com/design/dXZvu8EpdfMrxE6TnJe0sY/EthioMart-ALX-project-design-?node-id=0-1&t=Aa64Z2hh9OhGbhYr-1)
-- [Google Slides] (https://docs.google.com/presentation/d/1K5u1QHPcRGXL524zAr2t5C-EDqicEENTlFoTypHKe4M/edit?usp=drive_link)
